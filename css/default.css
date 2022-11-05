@@ -50,10 +50,6 @@ section {
   padding: 3rem;
 }
 
-section img {
-  flex: 0 1;
-}
-
 .sedans {
   background-color: var(--color-primary-bright-orange-alt);
 }
@@ -64,6 +60,10 @@ section img {
 
 .luxury {
   background-color: var(--color-primary-extra-dark-cyan);
+}
+
+section img {
+  flex: 0 1;
 }
 
 section h1 {
